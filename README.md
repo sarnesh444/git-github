@@ -1,2 +1,2 @@
 # git-github
-this is my first try at git
+This branch has the solutions to titanic and mushroom dataset from kaggle
