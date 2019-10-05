@@ -1,2 +1,2 @@
 # git-github
-this is my first try at git
+Code for generating different graphs on matplotlib
