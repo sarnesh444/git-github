@@ -1,2 +1,4 @@
 # git-github
-this is my first try at git
+This branch has to do with:
+1.Python libraries basics for data science,tool used:jupyter notebook 
+2.Android application zip file,tool used:android studio
